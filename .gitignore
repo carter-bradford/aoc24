@@ -2,7 +2,6 @@
 .vscode
 .stack-work
 .venv
-main
 .cmake
 CMakeFiles
 *.dSYM
@@ -22,3 +21,4 @@ zig-out
 day14/elixir/result.log
 day9/c/compact_disk
 day9/c/result.log
+day3/cpp/main
